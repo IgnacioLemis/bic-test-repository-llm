@@ -1,0 +1,6 @@
+2025-09-09 13:40:46,844 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-09-09 14:02:17,925 - ERROR - ?????? ??? ????????? ? OpenRouter: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
